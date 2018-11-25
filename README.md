@@ -1,3 +1,3 @@
-# clarifai_challenge
+# GO image_challenge
 
-Simple working example Clarifai API in Golang.
+Simple working example image  API in Go.
